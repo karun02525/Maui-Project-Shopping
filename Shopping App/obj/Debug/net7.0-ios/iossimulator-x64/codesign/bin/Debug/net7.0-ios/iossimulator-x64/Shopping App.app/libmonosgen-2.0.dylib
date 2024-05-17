@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/karunkumar/Projects/Shopping App/Shopping App/bin/Debug/net7.0-ios/iossimulator-x64/Shopping App.app/libmonosgen-2.0.dylib
